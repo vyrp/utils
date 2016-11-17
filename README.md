@@ -1,2 +1,2 @@
 # utils
-Some userfull snippets
+Some usefull snippets
