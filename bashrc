@@ -37,3 +37,5 @@ alias pgrep='pgrep --color=always'
 alias ls='ls --color=always'
 alias la='ls -A'
 alias ll='ls -la'
+
+alias g=git
